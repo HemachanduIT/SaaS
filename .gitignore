@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.next/
+.env
+.env.local
+.env.production
+.DS_Store
+coverage/
+coverage-final.json
+npm-debug.log
+yarn-error.log
+docker-compose.override.yml
