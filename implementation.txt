@@ -1,1 +1,2 @@
 ** this is build in order to understand (saas)-SOFTWAREA AS A SERVICE 
+It is mainly focusing on nextjs and typescript
